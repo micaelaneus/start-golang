@@ -4,7 +4,7 @@
   * [How to Use this Book]()
 * [Why Golang?](why-golang.md)
 * [Understanding the Web](understanding-web.md)
-  * [Basics of HTTP](##basics-of-http)
+  * [Basics of HTTP](#basics-of-http)
   * HTML
   * Browsers
   * Exercise: Inspect a Website
