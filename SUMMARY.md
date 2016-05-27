@@ -1,10 +1,10 @@
 # Summary
 
 * [Overview](overview.md)
-  * [How to Use this Book](##HTTP)
+  * [How to Use this Book]()
 * [Why Golang?](why-golang.md)
 * [Understanding the Web](understanding-web.md)
-  * HTTP
+  * [HTTP](##HTTP)
   * HTML
   * Browsers
   * Exercise: Inspect a Website
