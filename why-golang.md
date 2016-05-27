@@ -1,6 +1,6 @@
 # Why Golang?
 
-##  HTTP
+## HTTP
 ## HTML
 ## Browsers
 ## Exercise: Inspect a Website
