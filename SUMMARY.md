@@ -1,7 +1,7 @@
 # Summary
 
 * [Overview](overview.md)
-  * How to Use the Book
+  * [How to Use this Book](##HTTP)
 * [Why Golang?](why-golang.md)
 * [Understanding the Web](understanding-web.md)
   * HTTP
