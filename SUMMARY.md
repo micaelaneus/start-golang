@@ -4,11 +4,11 @@
   * [How to Use this Book]()
 * [Why Golang?](why-golang.md)
 * [Understanding the Web](understanding-web.md)
-  * [Basics of HTTP](##basics_of_http)
+  * [Basics of HTTP](##basics-of-http)
   * HTML
   * Browsers
   * Exercise: Inspect a Website
-* [Anatomy of a Web App](app=anatomy.md)
+* [Anatomy of a Web App](app-anatomy.md)
   * Handling requests and creating responses
   * Introducing controllers
   * Routing to a controller
