@@ -1,3 +1,4 @@
 # Rendering
-Factor out views with templates
-  * Rendering with `render`
+
+## Factor out views with templates
+## Rendering with `render`
