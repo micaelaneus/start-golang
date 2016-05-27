@@ -27,8 +27,9 @@
   * What is middleware and why do we want it?
   * Get to know `negroni`
   * Use negroni
+  * Exercise: Log this thing
 * [Routing to multiple endpoints](routing.md)
-  * What do mean by endpoint?
+  * What do you mean by endpoint?
   * Adding styles with CSS
   * Check: How Pretty is Your Page? (your screen should look like this)
 * [Hook up with a model](add-model.md)
@@ -50,6 +51,8 @@
 * [Editing existing recipes with `PUT`](putting.md)
 * [BONUS: Your favorite recipes](add-faves.md)
  * Add a star to your favorite recipes
+ * Steps to make it happen
+ * See my solution
 * [__Go__ing Further](going-further.md)
  * Books, games, Twitters, Slack 
 * [Acknowlegements](acknowledgements.md)
