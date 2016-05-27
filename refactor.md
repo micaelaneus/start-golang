@@ -1,1 +1,3 @@
 # Our story so far...
+
+## Organize your codebase carefully
