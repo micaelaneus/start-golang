@@ -1,58 +1,58 @@
 # Summary
 
 * [Overview](overview.md)
-  * [How to Use this Book]()
+  * [How to Use this Book](overview.md#how-to-book)
 * [Why Golang?](why-golang.md)
 * [Understanding the Web](understanding-web.md)
-  * [Basics of HTTP](#basics-of-http)
-  * HTML
-  * Browsers
-  * Exercise: Inspect a Website
+  * [Basics of HTTP](understanding-web.md#http)
+  * [HTML](understanding-web.md#html)
+  * [Browsers](understanding-web.md#browsers)
+  * [Exercise: Inspect a Website](understanding-web.md#exercise-inspect)
 * [Anatomy of a Web App](app-anatomy.md)
-  * Handling requests and creating responses
-  * Introducing controllers
-  * Routing to a controller
-  * Models and views
-  * Exercise: Fill in the Blanks
+  * [Handling requests and creating responses](app-anatomy.md#req-res)
+  * [Introducing controllers](app-anatomy.md#intro-controllers)
+  * [Routing to a controller](app-anatomy.md#routing)
+  * [Models and views](app-anatomy.md#models-views)
+  * [Exercise: Fill in the Blanks](app-anatomy.md#exercise-fill-blanks)
 * [Building our Recipe Rollodex](recipe-rollodex.md)
-  * Project Description
-  * How to start: clone the sample repo
-  * Setting up your local environment
-  * Exercise: Test your environment
+  * [Project Description](recipe-rollodex.md#project-desc)
+  * [How to start: clone the sample repo](recipe-rollodex.md#rollodex-code)
+  * [Setting up your local environment](recipe-rollodex.md#setup-local-env)
+  * [Exercise: Test your environment](recipe-rollodex.md#exercise-test-env)
 * [Serving a static web page](serving-static.md)
-  * `net/http`
-  * Writing a Handler function
-  * Check: Serve a Static Page (your screen should look like this)
+  * [`net/http`](serving-static.md#net-http)
+  * [Writing a Handler function](serving-static.md#writing-handler)
+  * [Check: Serve a Static Page (your screen should look like this)](serving-static.md#exercise-serve-static)
 * [Mighty, mighty Middleware](middleware.md)
-  * What is middleware and why do we want it?
-  * Get to know `negroni`
-  * Use negroni
-  * Exercise: Log this thing
+  * [What is middleware and why do we want it?](middleware.md#what-is-mw)
+  * [Get to know `negroni`](middleware.md#negroni)
+  * [Use negroni](middleware.md#use-negroni)
+  * [Exercise: Log this thing](middleware.md#exercise-log)
 * [Routing to multiple endpoints](routing.md)
-  * What do you mean by endpoint?
-  * Adding styles with CSS
-  * Check: How Pretty is Your Page? (your screen should look like this)
+  * [What do you mean by endpoint?](routing.md#endpoint)
+  * [Adding styles with CSS](routing.md#add-styles)
+  * [Check: How Pretty is Your Page? (your screen should look like this)](routing.md#exercise-pretty-page)
 * [Hook up with a model](add-model.md)
-  * Put the M in MVC
-  * Setup with our sample SQLite
-  * Links to learn more about databases
-  * Cook up your `/recipes`
-  * Check: List your recipes (your screen should look like this)
+  * [Put the M in MVC](add-model.md#m-in-mvc)
+  * [Setup with our sample SQLite](add-model.md#sample-sqlite)
+  * [Links to learn more about databases](add-model.md#learn-db)
+  * [Cook up your `/recipes`](add-model.md#use-recipes)
+  * [Check: List your recipes (your screen should look like this)](add-model.md#exercise-list-recipes)
 * [Our story so far...](refactor.md)
-  * Organize your codebase carefully
+  * [Organize your codebase carefully](refactor.md#organize-code)
 * [Rendering](rendering.md)
-  * Factor out views with templates
-  * Rendering with `render`
+  * [Factor out views with templates](rendering.md#templates)
+  * [Rendering with `render`](rendering.md#use-render)
 * [`ORM` so excited... to factor out my models](using-orm.md)
-  * What is Object Relational Mapping?
-  * Go-go-gadget `gorm`
+  * [What is Object Relational Mapping?](using-orm.md#what-is-orm)
+  * [Go-go-gadget `gorm`](using-orm.md#use-orm)
 * [Writing new Recipes with `POST`](posting.md)
-  * Posting a recipe
+  * [Posting a recipe](posting.md#post-recipe)
 * [Editing existing recipes with `PUT`](putting.md)
 * [BONUS: Your favorite recipes](add-faves.md)
- * Add a star to your favorite recipes
- * Steps to make it happen
- * See my solution
+ * [Add a star to your favorite recipes](add-faves.md#add-star)
+ * [Steps to make it happen](add-faves.md#add-star-steps)
+ * [See my solution](add-faves.md#star-solution)
 * [__Go__ing Further](going-further.md)
- * Books, games, Twitters, Slack 
+ * [Books, games, Twitters, Slack](going-further.md)
 * [Acknowlegements](acknowledgements.md)
