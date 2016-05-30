@@ -1,6 +1,6 @@
 # Understanding the Web
 
-## Basics of HTTP <a id="basics-of-http"></a>
+## HTTP
 ## HTML
 ## Browsers
 ## Exercise: Inspect a Website
